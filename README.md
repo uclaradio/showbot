@@ -1,7 +1,7 @@
 # showbot
 Discord bot that announces who is on air!
 
-clone this repo onto your local machine and runshow-bot with `$ python3 main.py`
+clone this repo onto your local machine and run show-bot with `$ python3 main.py`
 
 the #shows channel in the UCLA Radio Discord Server will now message live shows!
 
