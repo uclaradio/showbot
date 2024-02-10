@@ -18,7 +18,7 @@ client = discord.Client(intents=discord.Intents.default())
 # Read the show data file as a data frame
 # Column names: title, dj_names, time, day, description, genre
 # Note: Not every field in an example is defined
-show_data = pd.read_csv('winter23_shows.csv', keep_default_na=False)
+show_data = pd.read_csv('winter24_shows.csv', keep_default_na=False)
 
 
 # Example of a show:
